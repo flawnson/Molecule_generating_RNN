@@ -1,6 +1,6 @@
 # Molecule_generating_RNN
 
-*Further details provided in the documentation within the melting.py file.*
+*Further details provided in the documentation within the final_model.py file.*
 
 ## Project
 This is a molecule generator.
